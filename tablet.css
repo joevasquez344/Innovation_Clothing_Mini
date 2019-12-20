@@ -1,0 +1,9 @@
+/* Table Size */
+@media screen and (min-device-width: 416px) and (max-device-width: 600px){
+    .app-container{
+        background: gray;
+        width: 100vw;
+        min-height: 100vh;
+
+    }
+}
